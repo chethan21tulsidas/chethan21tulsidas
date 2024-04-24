@@ -57,13 +57,11 @@ Kaizen – A Statistical Football Betting Assistant Tool
     Achievements: Accurately predicted the result of 47~54% of all matches.
 
 Additional Research and Insight Reports
-
-    1. Customer Behaviour Analysis - E-commerce User Segmentation and Product Insights
     
-    2. Case Study Analysis – Digital Fan Engagement in Formula 1
+    1. Case Study Analysis – Digital Fan Engagement in Formula 1
     
-    3. ECB Partnership Performance Report
+    2. ECB Partnership Performance Report
     
-    4. Solving Manager Instability at Chelsea FC
+    3. Solving Manager Instability at Chelsea FC
 
 ----------------------------
