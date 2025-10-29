@@ -10,7 +10,7 @@ About Me
 
     2. Bachelor of Engineering with Distinction
        in Computer Science Engineering from Ramaiah Institute of Technology, Bangalore, India,
-       with expertise in data mining and algorithm design.
+       with a focus on data mining and algorithm design.
 
     3. Junior Data Scientist with experience in leveraging data-driven insights to effectively communicate
        complex insights in a simple and easy-to-understand manner.
