@@ -21,7 +21,7 @@ Technical Skills
 
     Analytics Tools: Tableau, SPSS
 
-    Platforms and Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Beautiful Soup, Google OR-Tools, Jupyte
+    Platforms and Packages: Pandas, Scikit-learn, Matplotlib, Seaborn, Beautiful Soup, Google OR-Tools, Jupyter
 
     Creative Tools: Adobe Premiere Pro, Adobe Photoshop, DaVinci Resolve, PowerPoint, Canva
 
